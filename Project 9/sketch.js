@@ -31,7 +31,7 @@ function draw()
     background("green");
   }
 
-console.log("hello")
+console.log("hello");
   
   drawSprites();
 }
